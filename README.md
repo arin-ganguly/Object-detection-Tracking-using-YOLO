@@ -17,6 +17,6 @@ https://github.com/user-attachments/assets/128111f4-cfa6-4167-864f-3493c2b8fc4f
 
 **🎯 FPS and Frame info overlay**
 
-- ⚡ Optimized for performance using frame resizing (640x360)
+- ⚡You can Optimize the performance using frame resizing (640x360)
 
 
