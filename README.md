@@ -18,5 +18,13 @@ https://github.com/user-attachments/assets/128111f4-cfa6-4167-864f-3493c2b8fc4f
 **🎯 FPS and Frame info overlay**
 
 - ⚡You can Optimize the performance using frame resizing (640x360)
+- 
+**🔧 Requirements**
+  
+- Python 3.8+
+- Ultralytics
+- OpenCV
+- install using commnd:-- pip install ultralytics opencv-python
+
 
 
